@@ -1,0 +1,7 @@
+C:\Users\Ross Brown\Engineering45\Week3\Monday\Week3MondayHomework\Week3MondayHomework\bin\Debug\Week3MondayHomework.exe.config
+C:\Users\Ross Brown\Engineering45\Week3\Monday\Week3MondayHomework\Week3MondayHomework\bin\Debug\Week3MondayHomework.exe
+C:\Users\Ross Brown\Engineering45\Week3\Monday\Week3MondayHomework\Week3MondayHomework\bin\Debug\Week3MondayHomework.pdb
+C:\Users\Ross Brown\Engineering45\Week3\Monday\Week3MondayHomework\Week3MondayHomework\obj\Debug\Week3MondayHomework.csprojAssemblyReference.cache
+C:\Users\Ross Brown\Engineering45\Week3\Monday\Week3MondayHomework\Week3MondayHomework\obj\Debug\Week3MondayHomework.csproj.CoreCompileInputs.cache
+C:\Users\Ross Brown\Engineering45\Week3\Monday\Week3MondayHomework\Week3MondayHomework\obj\Debug\Week3MondayHomework.exe
+C:\Users\Ross Brown\Engineering45\Week3\Monday\Week3MondayHomework\Week3MondayHomework\obj\Debug\Week3MondayHomework.pdb
